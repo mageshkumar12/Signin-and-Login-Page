@@ -1,0 +1,45 @@
+#maindiv{
+    border: 1px solid black;
+    height: 580px;
+    width: 100%;
+    background-image: url(https://cdn.pixabay.com/photo/2023/04/14/15/42/landscape-7925405_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+
+}
+
+#div2{
+    
+    width: 350px;
+    height: 300px;
+    margin-left: 430px;
+    margin-top: 120px;
+    text-align: center;
+    background-color: rgb(158, 116, 116);
+    padding-top: 10px;
+
+}
+#divname{
+    
+   margin-top: 25px; 
+   height: 60px;
+}
+#divpass{
+    
+   margin-top: 10px;
+   height: 60px;
+}
+#namepara,#passpara{
+     
+     color: rgb(71, 36, 128);
+    display: none; 
+} 
+ #divbtn{
+    
+     margin-top: 10px;
+ }
+ #linkk{
+    
+    margin-top: 1px;
+ }

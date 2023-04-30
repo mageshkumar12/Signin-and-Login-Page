@@ -1,0 +1,58 @@
+#outerdiv{
+    border: 1px solid black;
+    height: 580px;
+    width: 100%;
+    text-align: center;
+    background-image: url(https://cdn.pixabay.com/photo/2023/04/11/00/58/desert-7915031_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#innerdiv{
+    border: 1px solid black;
+    background-color: rgb(39, 177, 196);
+    height: 500px;
+    width: 360px;
+    margin-top: 35px;
+    margin-left: 430px;
+}
+#h2div{
+    /* border: 1px solid black; */
+    height: 50px;
+}
+#namediv{
+    /* border: 1px solid black; */
+    height: 80px;
+    margin-top: 8px;
+}
+#emaildiv{
+    /* border: 1px solid black; */
+    padding-left: 26px;
+    height: 80px;
+   
+}
+#pass1div{
+    /* border: 1px solid black; */
+    padding-right: 26px;
+    height: 80px;
+    
+}
+#pass2div
+{
+    /* border: 1px solid black; */
+    padding-right: 45px;
+    height: 80px;
+   
+}
+
+#linkdiv{
+    /* border: 1px solid black; */
+    margin-top: 10px;
+}
+p{
+    color: red;
+    display: none;
+}
+label{
+    margin-left: 0px;
+}
